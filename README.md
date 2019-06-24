@@ -1,0 +1,6 @@
+- pkg update
+- pkg upgrade
+- pkg install python2 git
+- git clone https://github.com/Bl4ckDr460n/Dr460nFb
+- cd Dr460nFb
+- python2 Dr460nFb.py
